@@ -8,7 +8,7 @@ Send a pull request if something is not correct or needs updating. Locations are
 185.25.180.0/24  
 185.25.181.0/24  
 
-**EU East** (Vienna, Italy)  
+**EU East** (Vienna, Austria)  
 146.66.155.0/24  
 185.25.182.0/24  
 
