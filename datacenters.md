@@ -24,9 +24,9 @@
 	tsn - Wuhan (ping only)*  
 	
 **Europe:**  
-	lux - Berlin, Germany  
+	lux - Luxembourg
 	mad - Madrid, Spain  
-	sto - Moscow, Russia  
+	sto - Stockholm, Sweden  
 	vie - Vienna, Austria  
 	waw - Warsaw, Poland  
 	
